@@ -1,0 +1,6 @@
+sendAudioIntent play {machinehead|Query}
+sendAudioIntent play {basket case|Query}
+sendAudioIntent play {hard days night|Query}
+sendAudioIntent play {smells like teen spirit|Query}
+sendAudioIntent play {where the streets have no name|Query}
+sendAudioIntent play {standing outside a broken telephone booth with money in my hand|Query}

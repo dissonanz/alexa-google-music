@@ -1,0 +1,8 @@
+{
+  "google_user": "user@gmail.com",
+  "google_password": "password",
+  "chromecast_name": "My Chromecast",
+  "sqs_name": "my-sqs-queue",
+  "aws_access_key_id": "AWS_ACCESS_KEY",
+  "aws_secret_access_key": "AWS_SECRET_KEY"
+}

@@ -1,0 +1,4 @@
+gmusicapi==10.0.1
+Flask==0.11.1
+PyChromecast==0.7.4
+boto3

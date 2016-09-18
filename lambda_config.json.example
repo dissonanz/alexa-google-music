@@ -1,0 +1,3 @@
+{
+  "sqs_url": "https://sqs.us-east-1.amazonaws.com/<your account number>/<your queue name>"
+}
